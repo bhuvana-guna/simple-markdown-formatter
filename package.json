@@ -1,0 +1,26 @@
+{
+  "name": "simple-markdown-formatter",
+  "version": "1.0.0",
+  "description": "an extensible javascript markdown formatter",
+  "main": "markdown-formatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuvana-guna/simple-markdown-formatter.git"
+  },
+  "keywords": [
+    "markdown",
+    "formatter",
+    "javascript",
+    "markdown-formatter",
+    "text-formatter",
+  ],
+  "author": "bhuvana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhuvana-guna/simple-markdown-formatter/issues"
+  },
+  "homepage": "https://github.com/bhuvana-guna/simple-markdown-formatter#readme"
+}
